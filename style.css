@@ -8,22 +8,16 @@ html {
 
 body {
     width: 100vw;
-    height: 100vh;
 }
 
 .exercise {
-    width: 50%;
+    width: 80%;
     margin: auto;
 }
 
 [class*="col"] {
     background: #cda5f3;
-}
-
-#text {
     border: solid 1px black;
     border-radius: 5px;
     text-align: center;
 }
-
-
