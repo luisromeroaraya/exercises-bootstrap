@@ -1,7 +1,3 @@
-* {
-    margin: 0;
-}
-
 html {
     background: white;
 }
@@ -15,21 +11,9 @@ body {
     margin: auto;
 }
 
-.responsive {
-    width: 80%;
-    margin: auto;
-}
-
-[class*="col"] {
+.exercise [class*="col"] {
     background: #cda5f3;
     border: solid 1px black;
     border-radius: 5px;
-    text-align: center;
-}
-
-.responsive [class*="col"] {
-    background: lightgrey;
-    border: solid 1px black;
-    border-radius: 1px;
     text-align: center;
 }
