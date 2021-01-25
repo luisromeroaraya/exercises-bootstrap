@@ -39,11 +39,9 @@ IV - practice makes good
 V - responsive layout
 
 ![bootstrap ex05 mobile](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/6.Bootstrap/bootstrap-ex05-mobile.png)
-
 Figure 1. Mobile
 
 ![bootstrap ex05 desktop](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/6.Bootstrap/bootstrap-ex05-desktop.png)
-
 Figure 2. Desktop
 
 ### Resources
