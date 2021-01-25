@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+html {
+    background: white;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.exercise {
+    width: 50%;
+    margin: auto;
+}
+
+[class*="col"] {
+    background: #cda5f3;
+}
+
+#text {
+    border: solid 1px black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
