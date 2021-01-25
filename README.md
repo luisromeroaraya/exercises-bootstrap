@@ -21,21 +21,27 @@ Instructions
 * with Bootstrap realise the layout below
 
 I - blocs positioning
+
 ![ootstrap ex01](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/6.Bootstrap/bootstrap-ex01.png)
 
 II - imbricated elements
+
 ![bootstrap ex02](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/6.Bootstrap/bootstrap-ex02.png)
 
 III - change elements order
+
 ![bootstrap ex03](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/6.Bootstrap/bootstrap-ex03.png)
 
 IV - practice makes good
+
 ![bootstrap ex04](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/6.Bootstrap/bootstrap-ex04.png)
 
 V - responsive layout
+
 ![bootstrap ex05 mobile](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/6.Bootstrap/bootstrap-ex05-mobile.png)
 
 Figure 1. Mobile
+
 ![bootstrap ex05 desktop](https://github.com/becodeorg/BXL-Swartz-4-27/raw/master/1.The-Field/6.Bootstrap/bootstrap-ex05-desktop.png)
 
 Figure 2. Desktop
